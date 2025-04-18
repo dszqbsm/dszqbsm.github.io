@@ -1,6 +1,6 @@
 # 我的个人博客
 
-访问地址：[5t0ne](httpps://dszqbsm.github.io)
+访问地址：[5t0ne](https://dszqbsm.github.io)
 
 ## 站点搭建记录
 
